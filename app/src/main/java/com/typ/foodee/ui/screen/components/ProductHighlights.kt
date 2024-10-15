@@ -17,7 +17,6 @@ import androidx.compose.material3.Text
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.unit.dp
 import com.typ.foodee.data.ProductHighlightType
-import com.typ.foodee.ui.theme.AppColors
 
 @Composable
 fun ProductHighlighs(

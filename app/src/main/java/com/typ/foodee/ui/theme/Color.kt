@@ -23,7 +23,7 @@ data class AppColors(
     val actionSurface: Color,
     val onActionSurface: Color,
     val highlightSurface: Color,
-    val onHighlightSurface: Color
+    val onHighlightSurface: Color,
 
 )
 

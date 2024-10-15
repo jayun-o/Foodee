@@ -17,7 +17,6 @@ import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
-import com.typ.foodee.ui.theme.AppColors
 import com.typ.foodee.ui.theme.AppTheme
 import androidx.compose.ui.unit.dp
 import com.typ.foodee.data.ProductFlavorState
